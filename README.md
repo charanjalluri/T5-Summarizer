@@ -1,6 +1,5 @@
 Sure! Here's the full **README.md** file for your **T5-Summarizer** project in Markdown format:
 
-```markdown
 # T5-Summarizer
 
 **T5-Summarizer** is a text summarization project that leverages the power of the **Google T5 (Text-to-Text Transfer Transformer)** model to generate concise and meaningful summaries of large text from various sources such as **PDF files**, **images**, and **audio files**. The project provides an interactive web interface built with **Streamlit** for easy usage, allowing users to upload files and get instant summaries. The model also supports multiple languages for broader usability.
@@ -34,7 +33,7 @@ To run the project locally, follow the steps below:
 ```bash
 git clone https://github.com/your-username/T5-Summarizer.git
 cd T5-Summarizer
-```
+
 
 ### 2. Set up a virtual environment (optional but recommended)
 ```bash
